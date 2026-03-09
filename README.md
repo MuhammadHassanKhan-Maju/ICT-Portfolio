@@ -1,2 +1,7 @@
-# ICT-Portfolio
-This repository serves as my assignment for CS1260-AICT. Please reading the following description before you continue. It is a collection of my Information and Communication Technology project.
+# My ICT Portfolio
+
+Name: Muhammad Hassan Khan
+Program: BSSE-Bachelor of Software Engineering
+Semester: 1
+
+This repository is created for my AICT assignment.
